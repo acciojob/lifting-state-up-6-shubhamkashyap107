@@ -18,7 +18,6 @@ const App = () => {
       isCompleted : false
     },
   ])
-  console.log(todos)
 
 
   function handleComplete(index)
